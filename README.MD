@@ -2,12 +2,15 @@
 
 *Bubbles OS is distributed as a ready-to-use ISO file. Just boot and install—no building required.*
 
-![Bubbles OS](https://img.shields.io/badge/Bubbles_OS-Official-blueviolet)
-![License: Private](https://img.shields.io/badge/License-Private-red.svg)
-![Security: Hardened](https://img.shields.io/badge/Security-Hardened-green.svg)
-![Platform: Ubuntu](https://img.shields.io/badge/Platform-Ubuntu-orange.svg)
-![Version](https://img.shields.io/badge/version-0.3.0-brightgreen.svg)
-![Docs](https://img.shields.io/badge/docs-available-blue.svg)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Bubbles_OS-Official-blueviolet" />
+  <img src="https://img.shields.io/badge/License-Private-red.svg" />
+  <img src="https://img.shields.io/badge/Security-Hardened-green.svg" />
+  <img src="https://img.shields.io/badge/Platform-Ubuntu-orange.svg" />
+  <img src="https://img.shields.io/badge/version-0.3.0-brightgreen.svg" />
+  <img src="https://img.shields.io/badge/docs-available-blue.svg" />
+</div>
 
 <div align="center">
 	<img src="bubbles-os.png" alt="Bubbles OS Logo" width="400" height="400" />
