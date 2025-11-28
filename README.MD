@@ -9,9 +9,13 @@
 ![Version](https://img.shields.io/badge/version-0.3.0-brightgreen.svg)
 ![Docs](https://img.shields.io/badge/docs-available-blue.svg)
 
+<div align="center">
+	<img src="bubbles-os.png" alt="Bubbles OS Logo" />
+</div>
+
 # Bubbles OS
 
-Bubbles OS is your gateway to a safer, smarter, and more enjoyable Linux experience. Built for everyone—from privacy enthusiasts to everyday users—Bubbles OS combines powerful security with a beautiful, user-friendly desktop.
+Bubbles OS is your gateway to a safer, smarter, and more enjoyable Linux experience. Built for everyone—including privacy enthusiasts, everyday users, and those with accessibility needs—Bubbles OS combines powerful security with a beautiful, user-friendly, and accessible desktop.
 
 **Why choose Bubbles OS?**
 
@@ -24,6 +28,13 @@ Bubbles OS is your gateway to a safer, smarter, and more enjoyable Linux experie
 - **Automatic Updates:** Security patches and system updates are handled for you.
 - **Custom Branding:** Personalize your desktop with themes, logos, and wallpapers.
 - **Easy Setup:** Choose your own username and password during installation.
+- **Accessibility Features:**
+    - Screen reader support (Orca)
+    - On-screen keyboard (Onboard)
+    - High-contrast and large-text themes
+    - Magnifier/zoom tools
+    - Keyboard navigation and shortcuts
+    - Accessible installer prompts
 
 **Perfect for:**
 - Home users who want privacy and safety
