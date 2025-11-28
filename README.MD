@@ -10,7 +10,7 @@
 ![Docs](https://img.shields.io/badge/docs-available-blue.svg)
 
 <div align="center">
-	<img src="bubbles-os.png" alt="Bubbles OS Logo" />
+	<img src="bubbles-os.png" alt="Bubbles OS Logo" width="200" />
 </div>
 
 # Bubbles OS
