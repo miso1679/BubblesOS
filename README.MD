@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/Security-Hardened-green.svg" />
   <img src="https://img.shields.io/badge/Platform-Ubuntu-orange.svg" />
   <img src="https://img.shields.io/badge/version-0.4.0-brightgreen.svg" />
-  <img src="https://img.shields.io/badge/docs-available-blue.svg" />
 </div>
 
 <div align="center">
