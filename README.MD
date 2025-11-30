@@ -52,6 +52,14 @@ Bubbles OS is your gateway to a safer, smarter, and more enjoyable Linux experie
 
 ---
 
+## Minimum System Requirements
+
+- 1 GHz 64-bit CPU (Intel/AMD; e.g., Intel Core i3 or better)
+- 2 GB RAM (4 GB recommended for smooth desktop experience)
+- 20 GB free disk space
+- Intel HD Graphics or equivalent integrated GPU
+- Internet connection (required for first boot setup and application installation)
+
 ## What’s Inside?
 
 Bubbles OS comes packed with everything you need for work, play, and security:
