@@ -8,7 +8,12 @@
   <img src="https://img.shields.io/badge/License-Private-red.svg" />
   <img src="https://img.shields.io/badge/Security-Hardened-green.svg" />
   <img src="https://img.shields.io/badge/Platform-Ubuntu-orange.svg" />
-  <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" />
+  <img src="https://img.shields.io/badge/version-1.0.12-blue.svg" />
+  <img src="https://img.shields.io/badge/Desktop_Environments-KDE%20XFCE%20MATE-blue.svg" />
+  <img src="https://img.shields.io/badge/Games-Educational-green.svg" />
+  <img src="https://img.shields.io/badge/Language_Packs-Multi-orange.svg" />
+  <img src="https://img.shields.io/badge/docs-available-blue.svg" />
+  <img src="https://img.shields.io/badge/tutorials-extra-yellow.svg" />
 </div>
 
 <div align="center">
