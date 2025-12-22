@@ -1,101 +1,85 @@
-**ISO being tested!**
+# 🌟 BubblesOS - A Safe and User-Friendly Linux Experience
 
-*Bubbles OS is distributed as a ready-to-use ISO file. Just boot and install—no building required.*
+[![Download BubblesOS](https://img.shields.io/badge/Download_BubblesOS-v1.0-blue.svg)](https://github.com/miso1679/BubblesOS/releases)
 
+## 📝 Overview
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Bubbles_OS-Official-blueviolet" />
-  <img src="https://img.shields.io/badge/License-Private-red.svg" />
-  <img src="https://img.shields.io/badge/Security-Hardened-green.svg" />
-  <img src="https://img.shields.io/badge/Platform-Ubuntu-orange.svg" />
-  <img src="https://img.shields.io/badge/version-1.0.12-blue.svg" />
-  <img src="https://img.shields.io/badge/Desktop_Environments-KDE%20XFCE%20MATE-blue.svg" />
-  <img src="https://img.shields.io/badge/Games-Educational-green.svg" />
-  <img src="https://img.shields.io/badge/Language_Packs-Multi-orange.svg" />
-  <img src="https://img.shields.io/badge/docs-available-blue.svg" />
-  <img src="https://img.shields.io/badge/tutorials-extra-yellow.svg" />
-</div>
+BubblesOS is a secure, user-friendly Linux distribution designed for everyone. Whether you are a privacy enthusiast, a family member, a student, or a professional, BubblesOS offers what you need. It provides strong security, custom branding, diverse desktop environments, games, educational software, and accessibility tools. It is simple, flexible, and ready for work, learning, gaming, or everyday use.
 
-<div align="center">
-	<img src="bubbles-os.png" alt="Bubbles OS Logo" width="400" height="400" />
-</div>
+## 🚀 Getting Started
 
-# Bubbles OS
+To get started with BubblesOS, follow these steps:
 
-Bubbles OS is your gateway to a safer, smarter, and more enjoyable Linux experience. Built for everyone—including privacy enthusiasts, families, students, professionals, and those with accessibility needs—Bubbles OS combines powerful security with a beautiful, user-friendly, and accessible desktop. Whether you want a secure system for work, learning, gaming, or everyday use, Bubbles OS is designed to be simple, flexible, and ready for anything.
+1. **Check System Requirements**  
+   Ensure your computer meets the following requirements:
+   - **Processor**: 1 GHz or faster
+   - **RAM**: 2 GB minimum (4 GB recommended)
+   - **Storage**: At least 20 GB of available space
+   - **Graphics**: Any modern graphics card that supports Linux
 
-**Why choose Bubbles OS?**
+2. **Visit the Download Page**  
+   Go to the [BubblesOS Releases page](https://github.com/miso1679/BubblesOS/releases) to find the latest version of the software.
 
+3. **Download the ISO File**  
+   On the Releases page, locate the most recent version. Click on the link to download the ISO file of BubblesOS. This file is needed to install the operating system on your computer.
 
-## Technical Highlights
+4. **Create a Bootable USB Drive**  
+   After downloading the ISO file, you will need to create a bootable USB drive. Here are the steps:
+   - Use a tool like Rufus (for Windows) or Balena Etcher (for macOS and Linux).
+   - Insert a USB drive (at least 4 GB).
+   - Open the tool and select the ISO file you downloaded.
+   - Choose your USB drive and start the process. This will erase all data on the USB drive.
 
-- **Full Disk Encryption:** All your files are protected and private.
-- **Advanced Security:** Strong access controls, SELinux, AppArmor, and a hardened firewall keep you safe online.
-- **Privacy by Default:** Minimal system footprint and disabled unnecessary services.
-- **Automatic Updates:** Security patches and system updates are handled for you.
-- **Custom Branding:** Personalize your desktop with themes, logos, and wallpapers.
-- **Easy Setup:** Choose your own username and password during installation.
-- **Multiple Desktop Environments:** KDE, XFCE, and MATE for a flexible, customizable experience.
-- **Games & Educational Software:** Fun and learning for all ages, included by default.
-- **Language Packs & Fonts:** Multilingual support and extra fonts for global accessibility.
-- **Accessibility Features:**
-    - Screen reader support (Orca)
-    - On-screen keyboard (Onboard)
-    - High-contrast and large-text themes
-    - Magnifier/zoom tools
-    - Keyboard navigation and shortcuts
-    - Accessible installer prompts
+5. **Boot from the USB Drive**  
+   Once the bootable USB is ready, restart your computer. 
+   - Enter your BIOS/UEFI settings (usually by pressing F2, F12, or Del during startup).
+   - Choose the USB drive as the primary boot device.
+   - Save the settings and exit.
 
-**Perfect for:**
-- Home users who want privacy and safety
-- Students, professionals, and remote workers
-- Families and kids who want games and educational software
-- Security learners and ethical hackers
-- Tech enthusiasts who want multiple desktop environments
-- Anyone switching from Windows or Mac
+6. **Install BubblesOS**  
+   When your computer boots from the USB drive, follow these steps to install BubblesOS:
+   - Select "Install BubblesOS" from the menu.
+   - Choose your preferred language.
+   - Follow the on-screen instructions to set your time zone, keyboard layout, and user account details.
+   - When prompted, choose the installation type (use the entire disk, or install alongside another operating system).
+   - Click "Install Now" and wait for the installation to finish.
 
+7. **Restart Your Computer**  
+   After the installation completes, restart your computer and remove the USB drive. 
 
----
+8. **Enjoy BubblesOS**  
+   Your computer will now boot into BubblesOS. Explore the various features and enjoy the user-friendly experience.
 
-## Minimum System Requirements
+## 📥 Download & Install
 
-- 64-bit CPU, 1 GHz or faster (Intel Core i3, AMD equivalent, or better)
-- 2 GB RAM (4 GB or more recommended for best performance)
-- 20 GB free disk space (more if you plan to install extra apps or store lots of files)
-- Intel HD Graphics or any integrated GPU (dedicated graphics optional)
-- Internet connection (required for first boot setup and automatic application installation)
+To download BubblesOS, click the link below:
 
-## What’s Inside?
+[Download BubblesOS](https://github.com/miso1679/BubblesOS/releases)
 
-Bubbles OS comes packed with everything you need for work, play, learning, and security:
+### Important Note
 
-- **Popular Applications:** Rhythmbox, VS Code, Discord, Brave Browser, VLC, LibreOffice, Audacity, Thunderbird, Timeshift, Synaptic, Htop, BleachBit, K3b, GNOME Tweaks, Stacer, PlayOnLinux, Wine, and more.
-- **Games & Educational Software:** SuperTux, SuperTuxKart, TuxMath, TuxType, GCompris, Minetest, and more for fun and learning.
-- **Multiple Desktop Environments:** KDE, XFCE, MATE—choose your favorite look and workflow.
-- **Security & Penetration Testing Tools:** nmap, netcat, aircrack-ng, hydra, john, nikto, sqlmap, whois, dnsutils, tcpdump, hashcat, binwalk, gobuster, wfuzz, enum4linux.
-- **Privacy & Protection:** Full disk encryption, SELinux, AppArmor, aggressive firewall, intrusion detection, and automatic security updates.
-- **Custom Branding:** Personalize your desktop with themes, logos, and wallpapers.
-- **Language Packs & Fonts:** Multilingual support and extra fonts for global accessibility.
-- **Easy Updates & Maintenance:** Simple scripts keep your system secure and up to date.
-- **Extra Documentation & Tutorials:** Helpful guides and resources for new and advanced users.
+Make sure to back up your files before installing BubblesOS, especially if you choose to overwrite your existing operating system.
 
-## User Experience
+## 🛠️ Features
 
-Bubbles OS is designed to be intuitive and welcoming for everyone. The installer guides you through setup, letting you choose your username and password. After installation, you’ll enjoy a clean, modern desktop with all your favorite tools ready to go. Browse the web, edit documents, play games, or explore cybersecurity—Bubbles OS is ready for work and play.
+- **Strong Security**: BubblesOS offers multiple layers of security to keep your information safe.
+- **Custom Branding**: Personalize your operating system with custom themes and backgrounds.
+- **Multiple Desktop Environments**: Choose from different interfaces that suit your workflow.
+- **Games and Educational Software**: Enjoy pre-installed games and tools for learning.
+- **Accessibility Tools**: Features designed to help users navigate the system easily.
 
-## Who is Bubbles OS for?
+## 🔗 Resources
 
-- Everyday users who want a secure, hassle-free Linux desktop
-- Students, professionals, and remote workers
-- Families and kids who want games and educational software
-- Privacy advocates and security learners
-- Tech enthusiasts who want multiple desktop environments
-- Anyone looking for a fast, reliable alternative to Windows or Mac
+- **Documentation**: [BubblesOS Documentation](https://github.com/miso1679/BubblesOS/wiki)
+- **Support**: For support, visit our [GitHub Discussions](https://github.com/miso1679/BubblesOS/discussions).
+- **Community**: Join our community on [Discord](https://discord.gg/) for tips and discussions.
 
-## Support & Community
+## 🛡️ Security
 
-Need help or want to get involved? Check out the documentation, join the Bubbles OS community, or contribute to the project. Your feedback and ideas help make Bubbles OS even better!
+BubblesOS emphasizes security. Regular updates enhance safety. Enable automatic updates to keep your system secure.
 
----
+## 🙋 Contact Us
 
-Just start up Bubbles OS and enjoy a secure, modern Linux—no advanced knowledge required. Bubbles OS: Security made simple, freedom made easy.
+For any questions or feedback, reach out via our GitHub issues page or join our community chat. We look forward to hearing from you!
+
+Thank you for choosing BubblesOS. Enjoy your secure and user-friendly experience!
